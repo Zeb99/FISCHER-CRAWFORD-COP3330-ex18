@@ -2,8 +2,9 @@ package org.example;
 import java.util.Scanner;
 
 /**
- * Hello world!
- *
+ * Temperature Converter
+ * UCF cop3330 Fall 2021 Assignment 18 Solution
+ * Copyright 2021 Zeb Fischer-Crawford
  */
 public class App 
 {
